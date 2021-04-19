@@ -1,0 +1,42 @@
+﻿<Window x:Class="O365TenantTool.RemoveUserFromGroup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:O365TenantTool"
+        mc:Ignorable="d"
+        Title="RemoveUserFromGroup" Height="450" Width="800">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF00AEFF" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Label Content="Felhasználónév: " HorizontalAlignment="Left" Margin="10,33,0,0" VerticalAlignment="Top" Height="37" Width="142"/>
+        <Label Content="Csoport: " HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Height="38" Width="142"/>
+        <TextBox x:Name="user" HorizontalAlignment="Left" Height="37" Margin="157,33,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="group" HorizontalAlignment="Left" Height="34" Margin="157,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="190"/>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold" Content="Végrehajt" HorizontalAlignment="Left" Margin="200,130,0,0" VerticalAlignment="Top" Width="98" Height="28" Click="RemoveUserFromaGroup">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Eredmény: " HorizontalAlignment="Left" Margin="10,277,0,0" VerticalAlignment="Top" Width="249" Height="37"/>
+        <ListBox x:Name="result_label" HorizontalAlignment="Left" Height="100" Margin="10,309,0,0" VerticalAlignment="Top" Width="448"/>
+
+    </Grid>
+</Window>

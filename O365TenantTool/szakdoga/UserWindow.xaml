@@ -1,0 +1,501 @@
+﻿<Window x:Class="O365TenantTool.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:O365TenantTool"
+        mc:Ignorable="d"
+        Title="UserWindow" Height="800" Width="1314.293" Closed="Window_Closed">
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF00AEFF" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid x:Name="grid" Margin="0,0,-82,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="313*"/>
+            <ColumnDefinition Width="149*"/>
+        </Grid.ColumnDefinitions>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználók Lekérdezése" HorizontalAlignment="Left" Margin="10,149,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="GetAllUser" Grid.ColumnSpan="4" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <ListBox SelectionMode="Multiple"  x:Name="label" HorizontalAlignment="Left" Height="456" Margin="543,68,0,0" VerticalAlignment="Top" Width="343" RenderTransformOrigin="-0.393,-0.155" Grid.Column="3" Grid.ColumnSpan="2"/>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Remove Session" HorizontalAlignment="Left" Margin="10,234,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="RemoveActualSession" Grid.ColumnSpan="4">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Csoportok lekérdezése" HorizontalAlignment="Left" Margin="146,66,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="GetAllGroup" Grid.Column="3" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználó hozzáadása Csoporthoz" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="OpenAddUserUnifGroupWindow" Grid.ColumnSpan="4" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználó törlése Csoportból" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="OpenRemoveUserfromGroupWindow" Grid.ColumnSpan="4" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="DNS Állapot" HorizontalAlignment="Left" Margin="10,262,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="GetDnsDetails" RenderTransformOrigin="0.483,0.403" Grid.ColumnSpan="4">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Csoport Tagság Lekérdezés" HorizontalAlignment="Left" Margin="146,38,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenGetGroupMembersWindow" Grid.Column="3" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Csoport létrehozás" HorizontalAlignment="Left" Margin="146,10,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenCreateGroupWindow" Grid.Column="3" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználó Engedélyezése" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="OpenEnableUserWindow" Grid.ColumnSpan="4" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználó Tiltása" HorizontalAlignment="Left" Margin="10,121,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="OpenDisableUserWindow" Grid.ColumnSpan="4" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználók jelszó reset" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="OpenResetPasswordWindow" Grid.ColumnSpan="4" FontSize="10" >
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Naptár Jogosultság Adása" HorizontalAlignment="Left" Margin="146,93,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenAddCalenderPermissionWindow" Grid.Column="3" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Naptár Jogosultság Törlés" HorizontalAlignment="Left" Margin="146,121,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenRemoveCalendarPermissionWindow" Grid.Column="3" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Naptár Jogosultság Lekérdezés" HorizontalAlignment="Left" Margin="146,149,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenGetCalendarPermissionWindow" Grid.Column="3" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Terjesztési Lista Csoport Létrehozása" HorizontalAlignment="Left" Margin="146,290,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenCreateDistrGroupWindow" FontSize="10" Grid.Column="3">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Terjesztési Lista Csoporthoz Hozzáadás" HorizontalAlignment="Left" Margin="146,262,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenAddToDistrGroupWindow" FontSize="10" Grid.Column="3">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="PowerShell Indítása" HorizontalAlignment="Left" Margin="10,290,0,0" VerticalAlignment="Top" Width="282" Height="23" Click="OpenPowerShellWindow" Grid.ColumnSpan="4">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <ListBox x:Name="myCommands" Grid.Column="1" HorizontalAlignment="Left" Height="163" Margin="10,361,0,0" VerticalAlignment="Top" Width="266" MouseDoubleClick="LoadMyCommands" Grid.ColumnSpan="3">
+
+        </ListBox>
+        <Label Content="Saját Parancsaid: " Grid.Column="1" HorizontalAlignment="Left" Margin="10,318,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="felhasznalo" Content="" Grid.Column="3" HorizontalAlignment="Left" Margin="530,33,0,0" VerticalAlignment="Top" Height="30" Width="342" Foreground="White" Grid.ColumnSpan="2">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Label Content="Új parancs neve: " Grid.Column="3" HorizontalAlignment="Left" Margin="146,326,0,0" VerticalAlignment="Top" Width="152"/>
+        <TextBox x:Name="command_name" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="134,361,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="381" RenderTransformOrigin="0.667,0.457"/>
+        <Label Content="Új parancs: " Grid.Column="3" HorizontalAlignment="Left" Margin="146,404,0,0" VerticalAlignment="Top" Width="152"/>
+        <TextBox x:Name="new_command" Grid.Column="3" HorizontalAlignment="Left" Height="74" Margin="134,450,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="381"/>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Mentés" Grid.Column="3" HorizontalAlignment="Left" Margin="270,548,0,0" VerticalAlignment="Top" Width="98" Height="35" Click="SaveMyCustomCommand">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Terjesztési Csoport Lista Tagok Lekérdezés" HorizontalAlignment="Left" Margin="146,205,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenGetDistrGroupMemberWindow" FontSize="10" Grid.Column="3">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Terjesztési Csoport Lista Tag Törlése" Grid.Column="3" HorizontalAlignment="Left" Margin="146,234,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="OpenRemoveUserFromDistrWindow" FontSize="10">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="User: " Grid.Column="3" HorizontalAlignment="Left" Margin="448,33,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.237,0.519" Width="82" Height="30" Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Terjesztési Csoportok lekérdezése" HorizontalAlignment="Left" Margin="146,177,0,0" VerticalAlignment="Top" Width="274" Height="23" Click="GetAllDistrGroup" FontSize="10" Grid.Column="3">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Eredmény: " Grid.Column="3" HorizontalAlignment="Left" Margin="448,3,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.237,0.519" Width="82" Height="30" Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Label x:Name="result_label" Content=" " Grid.Column="3" HorizontalAlignment="Left" Margin="537,7,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.237,0.519" Width="319" Height="30" Foreground="White" Grid.ColumnSpan="2">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.143"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználók Létrehozás" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Width="282" Height="23" Grid.ColumnSpan="4" FontSize="10" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Felhasználók Törlése" HorizontalAlignment="Left" Margin="10,205,0,0" VerticalAlignment="Top" Width="282" Height="23" Grid.ColumnSpan="4" FontSize="10" Click="Button_Click_1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Foreground="White" Background="#FF002EFF" FontFamily="Rockwell Extra Bold"  Content="Tulajdonság Módosítása" HorizontalAlignment="Left" Margin="582,548,0,0" VerticalAlignment="Top" Width="241" Height="25"  FontSize="10" Grid.Column="3" Click="Button_Click_2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Keress felhasználót!" Grid.Column="4" HorizontalAlignment="Left" Margin="84,33,0,0" VerticalAlignment="Top" Width="171" Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <TextBox x:Name="userSearch" Grid.Column="4" HorizontalAlignment="Left" Height="23" Margin="84,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="156" KeyDown="UserSearch_KeyDown"   />
+
+    </Grid>
+</Window>

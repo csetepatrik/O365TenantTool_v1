@@ -1,0 +1,476 @@
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\nunit.engine.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\nunit.engine.api.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\Szakdoga.exe.config
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\Szakdoga.exe
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\Szakdoga.pdb
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\netstandard.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.AppContext.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Collections.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Console.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Data.Common.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Globalization.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.Compression.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.Pipes.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Linq.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.Http.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.Ping.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.Requests.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.Security.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.Sockets.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.ObjectModel.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Reflection.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Resources.Reader.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Resources.Writer.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Claims.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.Principal.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Security.SecureString.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Text.Encoding.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.Thread.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Threading.Timer.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.ValueTuple.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Xml.XPath.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\nunit.framework.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\PresentationFramework.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\System.Management.Automation.dll
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\bin\Debug\nunit.framework.xml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csprojAssemblyReference.cache
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.exe.config
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\AddCalendarPermisson.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\AddToDistributionGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\AddUserToGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\CreateDistributionGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\CreateGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\CreateUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\DisableUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\EnableUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\GetCalendarPermission.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\GetDistGroupMember.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\GetMemberGroups.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\MainWindow.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RemoveCalendarPermission.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromDistr.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\ResetPassword.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RunScript.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\UserWindow.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\App.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga_Content.g.cs
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga_MarkupCompile.cache
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga_MarkupCompile.lref
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\AddCalendarPermisson.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\AddToDistributionGroup.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\AddUserToGroup.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\CreateDistributionGroup.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\CreateGroup.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\CreateUser.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\DisableUser.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\EnableUser.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\GetCalendarPermission.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\GetDistGroupMember.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\GetMemberGroups.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\MainWindow.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RemoveCalendarPermission.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromDistr.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromGroup.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\ResetPassword.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\RunScript.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\UserWindow.baml
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.g.resources
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.Properties.Resources.resources
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csproj.GenerateResource.cache
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csproj.CoreCompileInputs.cache
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csproj.CopyComplete
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.exe
+C:\Users\Csete\Desktop\Szakdoga\Szakdoga\obj\Debug\Szakdoga.pdb
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\nunit.engine.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\nunit.engine.api.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\Szakdoga.exe.config
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\Szakdoga.exe
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\Szakdoga.pdb
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\netstandard.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.AppContext.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Collections.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.ComponentModel.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Console.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Data.Common.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Globalization.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.Compression.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.Pipes.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Linq.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.Http.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.Ping.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.Requests.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.Security.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.Sockets.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.ObjectModel.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Reflection.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Resources.Reader.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Resources.Writer.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Claims.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.Principal.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Security.SecureString.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Text.Encoding.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.Thread.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Threading.Timer.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.ValueTuple.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Xml.XPath.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\nunit.framework.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\PresentationFramework.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\System.Management.Automation.dll
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\bin\Debug\nunit.framework.xml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.exe.config
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\AddCalendarPermisson.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\AddToDistributionGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\AddUserToGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\CreateDistributionGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\CreateGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\CreateUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\DisableUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\EnableUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\GetCalendarPermission.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\GetDistGroupMember.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\GetMemberGroups.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\MainWindow.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RemoveCalendarPermission.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RemoveUserFromDistr.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RemoveUserFromGroup.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\ResetPassword.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RunScript.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\UserWindow.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\App.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga_Content.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga_MarkupCompile.cache
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga_MarkupCompile.lref
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\AddCalendarPermisson.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\AddToDistributionGroup.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\AddUserToGroup.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\CreateDistributionGroup.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\CreateGroup.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\CreateUser.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\DisableUser.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\EnableUser.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\GetCalendarPermission.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\GetDistGroupMember.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\GetMemberGroups.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\MainWindow.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RemoveCalendarPermission.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RemoveUserFromDistr.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RemoveUserFromGroup.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\ResetPassword.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\RunScript.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\UserWindow.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.g.resources
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.Properties.Resources.resources
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.csproj.GenerateResource.cache
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.csproj.CoreCompileInputs.cache
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.csproj.CopyComplete
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.exe
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.pdb
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\DeleteUser.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\DeleteUser.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\ModifyProp.g.cs
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\ModifyProp.baml
+C:\Users\Csete\Desktop\Szakdoga másolata\Szakdoga\obj\Debug\Szakdoga.csprojAssemblyReference.cache
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\nunit.engine.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\nunit.engine.api.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\Szakdoga.exe.config
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\Szakdoga.exe
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\Szakdoga.pdb
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\netstandard.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.AppContext.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Collections.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Console.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Data.Common.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Globalization.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.Compression.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.Pipes.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Linq.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.Http.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.Ping.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.Requests.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.Security.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.Sockets.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.ObjectModel.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Reflection.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Resources.Reader.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Resources.Writer.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Claims.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.Principal.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Security.SecureString.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Text.Encoding.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.Thread.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Threading.Timer.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.ValueTuple.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Xml.XPath.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\nunit.framework.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\PresentationFramework.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\System.Management.Automation.dll
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\bin\Debug\nunit.framework.xml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csprojAssemblyReference.cache
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.exe.config
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\AddCalendarPermisson.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\AddToDistributionGroup.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\AddUserToGroup.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\CreateDistributionGroup.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\CreateGroup.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\CreateUser.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\DeleteUser.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\DisableUser.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\EnableUser.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\GetCalendarPermission.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\GetDistGroupMember.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\GetMemberGroups.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\MainWindow.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\ModifyProp.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RemoveCalendarPermission.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromDistr.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromGroup.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\ResetPassword.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RunScript.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\UserWindow.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\App.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga_Content.g.cs
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga_MarkupCompile.cache
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga_MarkupCompile.lref
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\AddCalendarPermisson.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\AddToDistributionGroup.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\AddUserToGroup.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\CreateDistributionGroup.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\CreateGroup.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\CreateUser.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\DeleteUser.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\DisableUser.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\EnableUser.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\GetCalendarPermission.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\GetDistGroupMember.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\GetMemberGroups.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\MainWindow.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\ModifyProp.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RemoveCalendarPermission.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromDistr.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RemoveUserFromGroup.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\ResetPassword.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\RunScript.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\UserWindow.baml
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.g.resources
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.Properties.Resources.resources
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csproj.GenerateResource.cache
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csproj.CoreCompileInputs.cache
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.csproj.CopyComplete
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.exe
+C:\Users\Csete\Desktop\moodle\Szakdoga\Szakdoga\obj\Debug\Szakdoga.pdb
